@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "mongodb+srv://Mercadona.bt3vg.mongodb.net/Mercadona",
+    "port": 47052,
+    "url": "mongodb+srv://newUser:Barrasa0416@catalogoinformatica.bt3vg.mongodb.net/Mercadona",
+    "database": "Mercadona",
+    "password": "Barrasa0416",
+    "name": "db",
+    "user": "newUser",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
